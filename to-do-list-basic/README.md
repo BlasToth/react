@@ -20,3 +20,6 @@ HACK: wrap everything inside of an empty element: <> </>
 
 - { useRef } hook 
  allows us to reference elements inside of our JSX
+
+- npm i uuid 
+ ( A universally unique identifier (UUID) is a 128-bit number used to identify information in computer systems. )
