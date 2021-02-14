@@ -16,3 +16,4 @@ HACK: wrap everything inside of an empty element: <> </>
 
 - { JS code } - Js code can be written into curly braces
 
+- Each child in a list should have a unique "key" prop.
