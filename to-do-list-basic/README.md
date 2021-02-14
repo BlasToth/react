@@ -23,3 +23,6 @@ HACK: wrap everything inside of an empty element: <> </>
 
 - npm i uuid 
  ( A universally unique identifier (UUID) is a 128-bit number used to identify information in computer systems. )
+
+ - { useEffect } hook
+  ( Accepts a function that contains imperative, possibly effectful code. )
