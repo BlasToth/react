@@ -16,4 +16,4 @@ HACK: wrap everything inside of an empty element: <> </>
 
 - { JS code } - Js code can be written into curly braces
 
-- Each child in a list should have a unique "key" prop.
+- Each child in a list should have a unique "key" prop. It allows REACT to rerender/change single components instead of rerendering all of them every single time
