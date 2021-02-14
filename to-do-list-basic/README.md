@@ -11,3 +11,8 @@
 - It is not allowed to put 2 JSX elements next to each other inside of a return() ( return can only return one thing )
 HACK: wrap everything inside of an empty element: <> </>
 
+- STATE: { useState } hook
+ useState() returns an array, so we can destructure it.
+
+- { JS code } - Js code can be written into curly braces
+
