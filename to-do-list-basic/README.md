@@ -26,3 +26,7 @@ HACK: wrap everything inside of an empty element: <> </>
 
  - { useEffect } hook
   ( Accepts a function that contains imperative, possibly effectful code. )
+
+  - in React you should never directly modify a STATE variable
+   ( we should always create a copy... for example with the spread operator)
+    let newArray = [...array];
